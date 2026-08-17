@@ -18,7 +18,8 @@
 | Overview | Clustering Analysis |
 |---|---|
 | ![Home]
- | ![Clustering Analysis](assets/screenshots/02_clustering_analysis.png) |
+ | ![Clustering Analysis]<img width="1915" height="813" alt="image" src="https://github.com/user-attachments/assets/5cfb92e2-3860-47c8-8b2f-46e22a7acaa7" />
+ |
 
 | Cardiovascular Risk | Patient Explorer |
 |---|---|
