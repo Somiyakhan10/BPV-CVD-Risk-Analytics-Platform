@@ -13,7 +13,7 @@
 
 ---
 
-## Screenshots
+## Output
 
 Overview 
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/834f141a-df61-4c9a-bf73-32ce03c8b8fe" />
