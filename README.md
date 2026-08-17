@@ -15,16 +15,16 @@
 
 ## Screenshots
 
-| Overview | Clustering Analysis |
-|---|---|
-|<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/834f141a-df61-4c9a-bf73-32ce03c8b8fe" />
- | <img width="1915" height="813" alt="image" src="https://github.com/user-attachments/assets/5cfb92e2-3860-47c8-8b2f-46e22a7acaa7" />
- |
+Overview 
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/834f141a-df61-4c9a-bf73-32ce03c8b8fe" />
+Clustering
+ <img width="1915" height="813" alt="image" src="https://github.com/user-attachments/assets/5cfb92e2-3860-47c8-8b2f-46e22a7acaa7" />
 
-| Cardiovascular Risk | Patient Explorer |
-|---|---|
-| <img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/73570dbc-0546-4825-b120-b76fde0238d8" />
- |img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/eeba8506-6552-4947-8dc9-a3c996fe0e66" />
+
+Cardiovascular Risk  
+ <img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/73570dbc-0546-4825-b120-b76fde0238d8" />
+Patient Explorer
+ <img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/eeba8506-6552-4947-8dc9-a3c996fe0e66" />
  
 
 ---
