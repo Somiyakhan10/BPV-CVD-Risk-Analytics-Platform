@@ -1,4 +1,4 @@
-# BPV-CVD Risk Analytics Platform
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/834f141a-df61-4c9a-bf73-32ce03c8b8fe" /># BPV-CVD Risk Analytics Platform
 
 **Machine learning platform for blood pressure variability (BPV) clustering and cardiovascular risk prediction in hemodialysis patients**, reproducing the analytical approach of Montoya et al. (2025) on a synthetic cohort.
 
@@ -10,7 +10,6 @@
 [![Tests](https://img.shields.io/badge/tests-48%20passing-brightgreen)](tests/)
 [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
-> **Data disclaimer:** All patient data is synthetically generated to statistically match the paper's cohort. No real patient data is used. This is a methodological/educational demonstration, **not a clinical decision-making tool**.
 
 ---
 
@@ -18,7 +17,8 @@
 
 | Overview | Clustering Analysis |
 |---|---|
-| ![Home](assets/screenshots/01_home.png) | ![Clustering Analysis](assets/screenshots/02_clustering_analysis.png) |
+| ![Home]
+ | ![Clustering Analysis](assets/screenshots/02_clustering_analysis.png) |
 
 | Cardiovascular Risk | Patient Explorer |
 |---|---|
