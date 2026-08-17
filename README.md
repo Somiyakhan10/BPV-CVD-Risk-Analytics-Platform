@@ -95,10 +95,6 @@ Dockerfile / docker-compose.yml
 - Validation metrics: silhouette score, Davies-Bouldin index, Calinski-Harabasz score.
 - Prediction models trained on a stratified 75/25 split, evaluated via accuracy, precision, recall, F1, and ROC-AUC.
 
-## Citation
-
-> Montoya, et al. (2025). *Blood pressure variability and cardiovascular risk assessment using machine learning clustering after arteriovenous fistula creation in hemodialysis patients.*
-
 ## License
 
 MIT — for educational and research demonstration purposes.
